@@ -406,9 +406,3 @@ nvar            number of covariates
     dpanigo@gmail.cin
 
     Back to Top
-
-
-Also see
-
-       Help: gsreg
-
