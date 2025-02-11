@@ -403,6 +403,6 @@ nvar            number of covariates
     Demian Panigo
     Instituto Malvinas - UNLP y CONICET
     La Plata, Argentina
-    dpanigo@gmail.cin
+    dpanigo@gmail.com
 
     Back to Top
